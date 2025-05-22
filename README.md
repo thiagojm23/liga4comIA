@@ -38,7 +38,7 @@ Foi implementado o algoritmo Minimax com podoa Alpha-Beta para a tomada de decis
 
 ### Características da Implementação
 
-- Profundidade de busca configurável (padrão: 4)
+- Profundidade de busca configurável (padrão: 7)
 - Função heurística que avalia:
   - Sequências de 3 peças
   - Posições centrais do tabuleiro
